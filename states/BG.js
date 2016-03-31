@@ -26,6 +26,6 @@ module.exports = function (states) { states['BG'] = {
   'BG-04': 'Veliko Tarnovo',
   'BG-05': 'Vidin',
   'BG-06': 'Vratsa',
-  'BG-28': 'Yambol',
+  'BG-28': 'Yambol'
 }
 }
