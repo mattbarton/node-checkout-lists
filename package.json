@@ -1,0 +1,19 @@
+{
+  "name": "node-checkout-lists",
+  "version": "1.0.0",
+  "description": "Lists of countries, states etc that are useful for building a cart or checkout page",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://mattbarton@github.com/mattbarton/node-checkout-lists.git"
+  },
+  "author": "bartonmr@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mattbarton/node-checkout-lists/issues"
+  },
+  "homepage": "https://github.com/mattbarton/node-checkout-lists#readme"
+}
