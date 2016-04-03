@@ -1,6 +1,6 @@
 {
   "name": "node-checkout-lists",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Lists of countries, states etc that are useful for building a cart or checkout page",
   "main": "index.js",
   "scripts": {
